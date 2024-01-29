@@ -4,7 +4,7 @@
 
 ## Overview
 
-Robot Runner is an endless runner game created as part of my portfolio to learn the Flutter framework. The game involves controlling a robot with the mission to collect screws and navigate through city traffic. The project utilizes Flutter and the Flame game engine, making it compatible with Android, iOS, and Web platforms.
+Robot Runner is an endless runner game created as part of my path to learn the Flutter framework. The game involves controlling a robot with the mission to collect screws and navigate through city traffic. The project utilizes Flutter and the Flame game engine, making it compatible with Android, iOS, and Web platforms.
 
 ## Installation
 
@@ -27,11 +27,14 @@ Before you begin, ensure that you have Flutter and Visual Studio Code installed 
   flutter run
   ```
 
-
 ## Features
+
 **Main Screen:** The starting point of the game.
+
 **Settings:** Configure game options.
+
 **Level 1 and Level 2:** Play different levels of the game.
+
 **Gameplay Features:** Includes tap controls, collision detection, character state tracking, background sounds, sound effects, and a points/time counter.
 
 ## Future Updates
@@ -40,7 +43,8 @@ The project is a work in progress. Planned updates include:
 
 Firebase integration.
 Addition of a joystick control.
-Contribution
+
+## Contribution
 Feel free to contribute to the project. It's currently a demo, and your contributions are welcome!
 
 ## Authors
