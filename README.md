@@ -41,8 +41,9 @@ Before you begin, ensure that you have Flutter and Visual Studio Code installed 
 
 The project is a work in progress. Planned updates include:
 
-Firebase integration.
-Addition of a joystick control.
+- Firebase integration.
+
+- Joystick addition.
 
 ## Contribution
 Feel free to contribute to the project. It's currently a demo, and your contributions are welcome!
