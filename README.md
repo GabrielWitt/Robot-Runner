@@ -1,16 +1,48 @@
-# ranger_gabo
+# Robot Runner
 
-A new Flutter project.
+![Robot Runner]([https://raw.githubusercontent.com/GabrielWitt/Robot-Runner/main/assets/images/banner.png])
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+Robot Runner is an endless runner game created as part of my portfolio to learn the Flutter framework. The game involves controlling a robot with the mission to collect screws and navigate through city traffic. The project utilizes Flutter and the Flame game engine, making it compatible with Android, iOS, and Web platforms.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Before you begin, ensure that you have Flutter and Visual Studio Code installed on your machine.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the project repository:
+  ```
+  git clone https://github.com/GabrielWitt/Robot-Runner
+  ```
+2. Navigate to the project directory:
+  ```
+  cd Robot-Runner
+  ```
+3. Install dependencies:
+  ```
+  flutter pub get
+  ```
+4. Run the game
+  ```
+  flutter run
+  ```
+
+
+## Features
+**Main Screen:** The starting point of the game.
+**Settings:** Configure game options.
+**Level 1 and Level 2:** Play different levels of the game.
+**Gameplay Features:** Includes tap controls, collision detection, character state tracking, background sounds, sound effects, and a points/time counter.
+
+## Future Updates
+
+The project is a work in progress. Planned updates include:
+
+Firebase integration.
+Addition of a joystick control.
+Contribution
+Feel free to contribute to the project. It's currently a demo, and your contributions are welcome!
+
+## Authors
+
+- [@Gabriel Witt](https://www.linkedin.com/in/gabriel-witt)
