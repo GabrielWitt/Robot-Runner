@@ -1,6 +1,6 @@
 # Robot Runner
 
-![Robot Runner]([https://raw.githubusercontent.com/GabrielWitt/Robot-Runner/main/assets/images/banner.png])
+![Robot Runner](https://raw.githubusercontent.com/GabrielWitt/Robot-Runner/main/assets/images/banner.png)
 
 ## Overview
 
@@ -36,6 +36,12 @@ Before you begin, ensure that you have Flutter and Visual Studio Code installed 
 **Level 1 and Level 2:** Play different levels of the game.
 
 **Gameplay Features:** Includes tap controls, collision detection, character state tracking, background sounds, sound effects, and a points/time counter.
+
+![](https://github.com/GabrielWitt/Robot-Runner/blob/main/assets/demo/MainScreen.jpg)
+
+![](https://github.com/GabrielWitt/Robot-Runner/blob/main/assets/demo/Gameplay1gif.gif)
+
+![](https://github.com/GabrielWitt/Robot-Runner/blob/main/assets/demo/Gameplay2.gif)
 
 ## Future Updates
 
